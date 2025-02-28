@@ -26,7 +26,7 @@ def performance_prediction(input_data):
 
 def main():
     # giving the app a title
-    st.title("Citrone Perfornance Web App")
+    st.title("Citrone Performance Web App")
 
     # getting the input data from user
 
